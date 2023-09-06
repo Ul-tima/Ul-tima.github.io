@@ -1,15 +1,17 @@
 title: Julia Pikovets
-logo: "/images/73D25F37-1748-4A45-AD40-A25F78C5D3D9_1_102_o.jpeg?raw=true" 
+logo: "/images/73D25F37-1748-4A45-AD40-A25F78C5D3D9_1_102_o-fotor-20230906154634.png
+?raw=true" 
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Scientist  
+  <br><br>
+  Kyiv, Ukraine
   <br><br>
   Seasoned Data Scientist with over 4 years of experience specializing in machine learning and programming, focusing on the telecom and fintech sectors. 
   I have a keen interest in Natural Language Processing tasks and have completed several courses in NLP, MLOps, and TensorFlow to stay up-to-date with the latest technologies. 
   Passionate about leveraging data-driven insights to drive strategic decision-making and contribute to groundbreaking advancements. 
   <br><br>
-  <a href="https://www.linkedin.com/in/julia-pikovets/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/julia-pikovets/">LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
